@@ -193,7 +193,7 @@
   ],
   "communes": {
     "0": { "nom": "Abadla", "wilaya_id": 8, "code_postal": "817", "has_stop_desk": 0 },
-    "1": { "nom": "Abalessa", "wilaya_id": 11, "code_postal": "1102", "has_stop_desk": 0 }
+    "1": { "nom": "Abalessa", "wilaya_id": 11, "code_postal": "1102", "has_stop_desk": 0 },
       "2": {
     "nom": "Abi Youcef",
     "wilaya_id": 15,
